@@ -15,5 +15,8 @@
     "name": "Vadimskyi",
     "email": "gdvadimskyi@gmail.com",
     "url": "https://www.vadimskyi.com/"
+  },
+  "scripts": {
+    "test": "exit 0"
   }
 }
